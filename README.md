@@ -1,16 +1,15 @@
-<div align="center">
-  <img height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2p0ZzFiN3VtbGFwZmlhNWgwZnhvcnlqNHF0M3NvamFkM25tdWgyMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif"  />
-</div>
-
-###
-
-<h2 align="center">Olá, seja muito bem-vindo ao meu GitHub! 😊👋</h2>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Erica1110&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<table>
+  <tr>
+    <td width="55%">
+      <h2>Olá, seja muito bem-vindo ao meu GitHub!😊👋</h2>
+      <h3>📚 Cursando Sistemas de Informação no IFBA</h3>
+      <h3>🌎 Vitória da Conquista, Bahia, Brasil</h3>
+    </td>
+    <td width="45%">
+      <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjNpbWVsNW1ieDIyenJmdTVvOGwyOXFzcnYxZHhnamlrcWFuNWc0YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="350"/>
+    </td>
+  </tr>
+</table>
 
 ###
 
