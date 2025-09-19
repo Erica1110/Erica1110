@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td width="55%">
-      <h2>Olá, seja muito bem-vindo ao meu GitHub!😊👋</h2>
+      <h2>Olá, seja muito bem-vindo ao meu GitHub!</h2>
       <h3>📚 Sistemas de Informação - IFBA</h3>
     </td>
     <td width="45%">
